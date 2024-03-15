@@ -1,4 +1,6 @@
 User Data Web Application Documentation
+
+
 This documentation provides an overview of a simple web application that allows users to input data, validate it, store it in a database, retrieve it, and display it in a tabular format.
 
 Table of Contents
